@@ -7,9 +7,9 @@
 	- Shell
 	- Network & system administration
 	- Graphics
-  - DevOps
-  - Computer security
-	- Algorithms & AI
+  	- DevOps
+  	- Computer security
+  	- Algorithms & AI
 <br>
 <br>
 
