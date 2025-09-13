@@ -1,6 +1,6 @@
 # Hi I'm Mohamed Telti
 
-## I'm a [42 Network](https://42.fr/le-reseau-mondial/) Computer Science Student at [1337](https://1337.ma/en/) Khouribga-Morocco Campus
+## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus
 
 - I’m currently learning in my projects school:
 	- C/C++
