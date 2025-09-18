@@ -16,7 +16,7 @@
 <p align="left">
 <p align="left">
   <a href="/">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,c,css,tailwind,html,js,py,django,sass,selenium,electron" />
+    <img src="https://skillicons.dev/icons?i=linux,git,shell,bash,docker,c,c++,html,js,py,django,flask" />
   </a>
 </p>
 <br>
