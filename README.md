@@ -11,12 +11,24 @@
   	- Computer security
   	- Algorithms & AI
  
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">Languages:</h3>
 <p align="left">
   <a href="/">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker,c,cpp,html,js,py,django,flask" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,py" />
+  </a>
+</p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=django,flask" />
+  </a>
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker" />
   </a>
 </p>
 <br>
