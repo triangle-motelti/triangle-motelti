@@ -34,6 +34,7 @@
 <br>
 <br>
 
+## GitHub Stats
 <div align="center" width="100%">
   <a href="https://github.com/triangle-motelti">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&hide_border=false&border_color=2c2f34&hide=Objective-C,Perl,Java,CMake,HTML&size_weight=0.5&count_weight=0.5&title_color=dbdbdb" align="center" width="37%" />
