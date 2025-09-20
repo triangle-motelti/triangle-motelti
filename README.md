@@ -19,6 +19,7 @@
   	- Algorithms & AI
 
 <div align="center">
+	
 ## Languages & Frameworks & Tools & Technologies:
 <h3 align="left">Languages:</h3>
 <p align="left">
