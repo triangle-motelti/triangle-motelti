@@ -1,6 +1,6 @@
 # Hi I'm Mohamed Telti
-[![Gmail](https://img.shields.io/badge/-Gmail-2EC866??message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mteltipr03@gmail.com)
-[![Discord]([https://img.shields.io/badge/-Discord-2EC866?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge)]((https://discord.com/users/1085692837238165585))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mteltipr03@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1085692837238165585)
 <div align="center">
   <a href="mailto:mteltipr03@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
