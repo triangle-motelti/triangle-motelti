@@ -33,7 +33,6 @@
 </p>
 <br>
 <br>
-
 ## GitHub Stats
 <div align="center" width="100%">
   <a href="https://github.com/triangle-motelti">
@@ -43,11 +42,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&theme=dark&bg_color=00000000&text_color=9A9A9A&show_icons=true&icon_color=ff8070&ring_color=c4e3ff&hide_border=false&border_color=2c2f34&line_height=30&show=prs_merged,prs_merged_percentage&custom_title=General%20Stats&title_color=dbdbdb" align="center" width="58%" />
   </a>
 </div>
-
 <br>
 <br>
 <br>
-
 ## Contributions graph in the last 40 days
 <div align="center" style="width: 100%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=triangle-motelti&theme=merko&color=9A9A9A&hide_border=true&days=40&bg_color=00000000&area=true&custom_title=Contributions%20graph%20in%20the%20last%2040%20days&title_color=dbdbdb&height=600" style="width: 100%" align="center" />
