@@ -8,6 +8,9 @@
 </a>
 </div>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mteltipr03@gmail.com)
+
+
 ## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus
 
 - I’m currently learning in my projects school:
