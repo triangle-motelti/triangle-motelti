@@ -1,4 +1,10 @@
 # Hi I'm Mohamed Telti
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mteltipr03@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1085692837238165585)
+
+</div>
 
 ## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus
 
