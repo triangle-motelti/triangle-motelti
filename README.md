@@ -17,7 +17,9 @@
   	- DevOps
   	- Computer security
   	- Algorithms & AI
- 
+
+<div align="center">
+	
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="/">
@@ -38,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=linux,git,github,bash,docker" />
   </a>
 </p>
+
+</div>
 <br>
 <br>
 
