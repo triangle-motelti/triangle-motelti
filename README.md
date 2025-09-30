@@ -49,7 +49,12 @@ I'm not here to impress with words, but I can show you how much I care about lea
 <br>
 
 ## GitHub Stats
+<div align="center" width="100%">
+    
+| <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
 
+</div>
 <br>
 <br>
 <br>
