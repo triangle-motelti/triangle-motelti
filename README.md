@@ -19,7 +19,30 @@ I'm not here to impress with words, but I can show you how much I care about lea
   	- Computer security
   	- Algorithms & AI
 
-<div align="center">
+## Skills & Technologies
+
+> `bash$> vim skills.cpp`
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Languages:  C, C++, HTML, JS, CSS, Python, Bash" << std::endl;
+    std::cout << "Frameworks: Django, Flask" << std::endl;
+    std::cout << "Tools:      Linux, Git, GitHub, Docker" << std::endl;
+}
+```
+
+> `bash$> make skills && ./skills`
+```bash
+g++ skills.cpp -o skills
+Languages:  C, C++, HTML, JS, CSS, Python, Bash
+Frameworks: Django, Flask
+Tools:      Linux, Git, GitHub, Docker
+```
+
+
+<!-- <div align="center">
+
 	
 ## Languages & Frameworks & Tools & Technologies:
 <h3 align="left">Languages:</h3>
@@ -43,7 +66,7 @@ I'm not here to impress with words, but I can show you how much I care about lea
   </a>
 </p>
 
-</div>
+</div> -->
 
 <br>
 <br>
