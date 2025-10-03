@@ -25,7 +25,7 @@ I'm not here to impress with words, but I can show you how much I care about lea
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="/">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,py" />
   </a>
 </p>
 
