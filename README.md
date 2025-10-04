@@ -26,7 +26,7 @@ I'm not here to impress with words, but I can show you how much I care about lea
 #include <iostream>
 
 int main() {
-    std::cout << "Languages:  C, C++, HTML, JS, CSS, Python, Bash" << std::endl;
+    std::cout << "Languages:  C, C++, JS,  Python, Bash" << std::endl;
     std::cout << "Frameworks: Django, Flask" << std::endl;
     std::cout << "Tools:      Linux, Git, GitHub, Docker" << std::endl;
 }
@@ -35,7 +35,7 @@ int main() {
 > `bash$> make skills && ./skills`
 ```bash
 g++ skills.cpp -o skills
-Languages:  C, C++, HTML, JS, CSS, Python, Bash
+Languages:  C, C++, JS, Python, Bash
 Frameworks: Django, Flask
 Tools:      Linux, Git, GitHub, Docker
 ```
