@@ -40,10 +40,18 @@ Frameworks: Django, Flask
 Tools:      Linux, Git, GitHub, Docker
 ```
 
-## Contributions graph in the last 40 days
-<div align="center" style="width: 100%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=triangle-motelti&theme=merko&color=9A9A9A&hide_border=true&days=40&bg_color=00000000&area=true&custom_title=Contributions%20graph%20in%20the%20last%2040%20days&title_color=dbdbdb&height=600" style="width: 100%" align="center" />
+## GitHub stats
+<div align="center">
+    
+| <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+<!--
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light" width="97%"> </picture>
+-->
+
 </div>
+
 
 <div align="center">
 
