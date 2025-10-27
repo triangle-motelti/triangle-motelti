@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Mohamed Telti
+# Hi I'm Mohamed Telti - Computer Science Student
 I'm not here to impress with words, but I can show you how much I care about learning and building.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mteltipr03@gmail.com)
@@ -8,7 +8,7 @@ I'm not here to impress with words, but I can show you how much I care about lea
 
 </div>
 
-## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus
+<!-- ## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus -->
 
 - I’m currently learning in my projects school:
 	- C/C++
