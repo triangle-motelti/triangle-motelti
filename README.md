@@ -9,8 +9,12 @@ I'm not here to impress with words, but I can show you how much I care about lea
 </div>
 
 <!-- ## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus -->
+<div align="center">
 
-- I’m currently learning in my projects school:
+## I’m currently learning in my projects school:
+
+</div>
+
 	- C/C++
 	- Shell
 	- Network & system administration
