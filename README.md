@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi I'm Mohamed Telti - Computer Science Student
+# Hi I'm <a href="https://triangle-motelti.github.io/" target="_blank" rel="noopener noreferrer">Mohamed Telti</a> - Computer Science Student
 I'm not here to impress with words, but I can show you how much I care about learning and building.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mteltipr03@gmail.com)
