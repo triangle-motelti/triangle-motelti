@@ -48,7 +48,8 @@ g++ skills.cpp -o skills
 Languages:  C, C++, JS, Python, Bash
 Frameworks: Django, Flask
 Tools:      Linux, Git, GitHub, Docker
-``` -->
+``` 
+
 
 ## GitHub stats
 <div align="center">
