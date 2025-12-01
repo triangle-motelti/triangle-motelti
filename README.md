@@ -14,13 +14,6 @@ I'm not here to impress with words, but I can show you how much I care about lea
 
 </div>
 
-<!-- ## I'm a <a href="https://42.fr/le-reseau-mondial/" target="_blank">42 Network</a> Computer Science Student at <a href="https://1337.ma/en/" target="_blank">1337</a> Khouribga-Morocco Campus -->
-<!-- <div align="center">
-
-## I’m currently learning in my projects school:
-
-</div> -->
-
 	- C/C++
 	- Shell
 	- Network & system administration
@@ -29,39 +22,9 @@ I'm not here to impress with words, but I can show you how much I care about lea
   	- Computer security
   	- Algorithms & AI
 
-<!-- ## Skills & Technologies
 
-> `bash$> vim skills.cpp`
-```cpp
-#include <iostream>
-
-int main() {
-    std::cout << "Languages:  C, C++, JS,  Python, Bash" << std::endl;
-    std::cout << "Frameworks: Django, Flask" << std::endl;
-    std::cout << "Tools:      Linux, Git, GitHub, Docker" << std::endl;
-}
-```
-
-> `bash$> make skills && ./skills`
-```bash
-g++ skills.cpp -o skills
-Languages:  C, C++, JS, Python, Bash
-Frameworks: Django, Flask
-Tools:      Linux, Git, GitHub, Docker
-``` 
-
-
-## GitHub stats
-<div align="center">
-    
-| <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
-|:-:|:-:|
-
-<!-- </div>
-
-
-<div align="center">
+<!--div align="center">
 
 ![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBxbDFqZzhzeHJxZm9oMnBieDY3ejAyMGUzbDg0NHA2ZWpwaTc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif)
 
-</div> -->
+</div-->
