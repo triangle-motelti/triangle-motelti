@@ -28,3 +28,8 @@ I'm not here to impress with words, but I can show you how much I care about lea
 ![Alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBxbDFqZzhzeHJxZm9oMnBieDY3ejAyMGUzbDg0NHA2ZWpwaTc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif)
 
 </div-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&theme=tokyonight&bg_color=00000000&langs_count=6" height="165"/>
+</p>
