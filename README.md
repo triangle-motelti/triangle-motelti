@@ -30,7 +30,7 @@ I'm not here to impress with words, but I can show you how much I care about lea
 
 </div-->
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=triangle-motelti&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triangle-motelti&layout=compact&theme=tokyonight&bg_color=00000000&langs_count=6" height="165"/>
 </p>
